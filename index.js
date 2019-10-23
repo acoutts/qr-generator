@@ -1,8 +1,6 @@
-'use strict';
+"use strict";
 
-const ReactNative = require('react-native');
-const {
-    NativeModules,
-} = ReactNative;
+const ReactNative = require("react-native");
+const { NativeModules } = ReactNative;
 
-module.exports = NativeModules.QRCodeLocalImage;
+module.exports = NativeModules.QRGenerator;
