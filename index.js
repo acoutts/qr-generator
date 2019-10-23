@@ -3,4 +3,4 @@
 const ReactNative = require("react-native");
 const { NativeModules } = ReactNative;
 
-module.exports = NativeModules.QRGenerator;
+module.exports = NativeModules.RCTQRGenerator;
