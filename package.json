@@ -1,0 +1,29 @@
+{
+  "name": "bottle-qr-generator",
+  "version": "1.0.4",
+  "qrcode-local-imagecription": "A native QR generator",
+  "main": "index.js",
+  "author": {
+    "name": "Andrew Coutts",
+    "email": "andrew@coutts-consulting.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "qrcode",
+    "local-image",
+    "remobile",
+    "mobile"
+  ],
+  "homepage": "https://github.com/acoutts/bottle-qr-generator",
+  "bugs": {
+    "url": "https://github.com/acoutts/bottle-qr-generator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/acoutts/bottle-qr-generator.git"
+  }
+}
