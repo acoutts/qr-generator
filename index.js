@@ -1,6 +1,2 @@
-"use strict";
-
-const ReactNative = require("react-native");
-const { NativeModules } = ReactNative;
-
-module.exports = NativeModules.RCTQRGenerator;
+import { NativeModules } from "react-native";
+module.exports = NativeModules.QRGenerator;
